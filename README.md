@@ -1,14 +1,16 @@
+![113091740103590_ pic](https://github.com/user-attachments/assets/f457132a-62d5-4180-b315-36d05fef7c94)
+
 本脚本使用Deepseek进行创建,经过blender4.2.5验证.可以正常运行.其他版本未经过验证.
 
 
 # 使用说明：
-# 1. 将脚本粘贴到Blender文本编辑器中并运行
-# 2. 使用 Ctrl + Shift + S 打开场景菜单
-# 3. 从列表中选择需要切换的场景
+ 1. 将脚本粘贴到Blender文本编辑器中并运行
+ 2. 使用 Ctrl + Shift + S 打开场景菜单
+ 3. 从列表中选择需要切换的场景
 
 
 
-功能说明：
+# 功能说明：
 1. 注册了三个组件：
   ○ SCENE_OT_Switch：实际执行场景切换的操作符
   ○ SCENE_MT_SwitchMenu：显示所有场景列表的菜单
